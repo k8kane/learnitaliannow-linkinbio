@@ -10,6 +10,11 @@ html, body {
     text-align: center;
 }
 
+li {
+    list-style-type:circle;
+    color: #ffffff;
+    text-align: center;
+}
 /* Instagram */
 .button-instagram {
     --button-text: #ffffff;
