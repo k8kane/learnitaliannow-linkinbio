@@ -20,10 +20,9 @@ header {
     text-align: center;
 }
 
-li {
-    list-style-type:circle;
-    color: #ffffff;
+a {
     text-align: center;
+    text-decoration: none;
 }
 /* Instagram */
 .button-instagram {
