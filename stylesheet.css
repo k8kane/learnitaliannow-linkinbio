@@ -5,8 +5,18 @@
 }
 
 html, body {
-    background: linear-gradient(to top, #2c003e, #b19cd9);
+    /*background: linear-gradient(to top, #2c003e, #b19cd9);*/
+    background-color: #ffffff;
     height: 100%;
+    text-align: center;
+    font-style: normal;
+    /*color:#ffffff*/
+}
+
+/* Header styles*/
+header {
+    color: #fff;
+    padding: 10px 0;
     text-align: center;
 }
 
@@ -20,6 +30,16 @@ li {
     --button-text: #ffffff;
     --button-background: #6349ff;
 }
+/* Facebook */
+.button-facebook {
+    --button-text: #ffffff;
+    --button-background: #6349ff;
+}
+/* YouTube */
+.button-youtube {
+    --button-text: #ffffff;
+    --button-background: #6349ff;
+}
 /* Font color styles 
 body {
     font-family: 'Corintha';
@@ -29,13 +49,7 @@ body {
     padding: 0;
 }*/
 
-/* Header styles 
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-}*/
+
 
 /* Navigation styles */
 nav {
