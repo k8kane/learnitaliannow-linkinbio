@@ -10,6 +10,11 @@ html, body {
     text-align: center;
 }
 
+/* Instagram */
+.button-instagram {
+    --button-text: #ffffff;
+    --button-background: #6349ff;
+}
 /* Font color styles 
 body {
     font-family: 'Corintha';
