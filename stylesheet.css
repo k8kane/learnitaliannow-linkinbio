@@ -42,6 +42,14 @@ a {
     text-align: center;
     text-decoration: none;
 }
+
+.icon {
+    width: 1.25rem;
+    height: 1.25rem;
+    margin-right: 0.5rem;
+    flex-shrink: 0;
+}
+
 /* Instagram */
 .button-instagram {
     --button-text: #ffffff;
