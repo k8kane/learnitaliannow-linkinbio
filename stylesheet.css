@@ -1,12 +1,13 @@
 /* General styles */
 @font-face {
-    font-family: 'Corintha';
-    src: url('/content/fonts/Corintha-Regular.ttf') format('truetype');
+    font-family: 'Corinthia';
+    src: url('/content/fonts/Corinthia-Regular.ttf') format('truetype');
 }
 
 html, body {
     background: linear-gradient(to top, #2c003e, #b19cd9);
     height: 100%;
+    text-align: center;
 }
 
 /* Font color styles 
