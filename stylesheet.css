@@ -24,6 +24,18 @@ a {
     text-align: center;
     text-decoration: none;
 }
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: 'Corinthia';
+    font-size: 16px;
+    color: var(--button-text);
+    background-color: var(--button-background);
+    text-align: center;
+    text-decoration: none;
+}
 /* Instagram */
 .button-instagram {
     --button-text: #ffffff;
@@ -39,6 +51,7 @@ a {
     --button-text: #ffffff;
     --button-background: #6349ff;
 }
+
 /* Font color styles 
 body {
     font-family: 'Corintha';
